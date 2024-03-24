@@ -1,0 +1,1 @@
+Brick breaker game using java in Eclipse IDE. The goal of the game was to eliminate all the bricks in each level by bouncing your ball off. Avoid the ball falling below the paddle, clear levels, and Score points.
